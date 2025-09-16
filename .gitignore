@@ -1,0 +1,26 @@
+# python
+__pycache__/
+*.py[cod]
+
+# build
+main.spec
+build/
+dist/
+*.spec
+# build input
+/subtitles*
+
+# output
+/temp
+result.ass
+*.ass
+*.log
+page.txt
+*.html
+
+# conf files
+*.conf
+One Piece V2/
+tests/recompose/*
+tests/recompose2/*
+tests/ID

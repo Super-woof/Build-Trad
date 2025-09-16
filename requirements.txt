@@ -1,0 +1,9 @@
+fandom-py==0.2.1
+numpy==2.1.0
+py7zr==0.22.0
+pydantic==2.7.4
+pyinstaller==6.10.0
+pysubs2==1.7.2
+pytest==8.3.2
+rich==13.7.1
+tqdm==4.66.4
